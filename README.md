@@ -75,14 +75,17 @@ Default Weight: 20
 You probably have some questions, I will try to answer some of them here.
 
 **Q1: Why use Deepslate Copper Ore? Why not something else? Why not use a custom block?**
+
 I **did try** to use Deepslate Emerald Ore, but I couldn't get the ore to spawn normally because Emerald Ore spawns on the Extreme Hills biome. I tried to use Deepslate Coal Ore but that meant I had to change the spawn rate of coal ore as well. The only remaining option was to use Deepslate Copper Ore because copper rarely spawns beneath the deepslate layer anyway and it is pretty useless. You can also get tons of copper from Trial Chambers. As for the custom blocks, not only they are complex and hard to implement like a beginner like me(this is my first datapack) it also messes up world generation. Especially when you use other datapacks like Terralith and Tectonic.
 
 
 **Q2: How can I download it?**
+
 Just go to https://github.com/Slimefreakk/SlimefreaksGems/releases and download the latest version.
 
 
 **Q3: There are 4 seperate files, which one should I download?**
+
 You basically have to download the resource pack for the textures to show up, as for the others:
 
 The **Full** version is basically the combination of CGG and Gems. If you download this version you don't have to do anything else. Just put the file in the datapack folder and use the resource pack and you're good!
