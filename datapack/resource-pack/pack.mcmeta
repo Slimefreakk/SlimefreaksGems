@@ -1,0 +1,19 @@
+{
+	"pack": {
+		"pack_format": 34,
+		"supported_formats": {
+			"min_inclusive": 31,
+			"max_inclusive": 57
+		},
+		"description": {
+			"text": "Resources for Slimefreak's Gems | v1.0",
+			"color": "gray",
+			"extra": [
+				{
+					"text": "\nfor 1.21",
+					"color": "yellow"
+				}
+			]
+		}
+	}
+}

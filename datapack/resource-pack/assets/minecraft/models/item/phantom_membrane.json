@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/phantom_membrane"
+  },
+  "overrides":
+  [
+    {"predicate": {"custom_model_data": 1391001}, "model": "sfgems/sapphire"},
+    {"predicate": {"custom_model_data": 1391002}, "model": "sfgems/topaz"},
+    {"predicate": {"custom_model_data": 1391003}, "model": "sfgems/amber"},
+    {"predicate": {"custom_model_data": 1391004}, "model": "sfgems/onyx"},
+    {"predicate": {"custom_model_data": 1391005}, "model": "sfgems/ruby"},
+    {"predicate": {"custom_model_data": 1391006}, "model": "sfgems/opal"},
+    {"predicate": {"custom_model_data": 1391007}, "model": "sfgems/tourmaline"},
+    {"predicate": {"custom_model_data": 1391008}, "model": "sfgems/aquamarine"},
+    {"predicate": {"custom_model_data": 1391009}, "model": "sfgems/citrine"},
+    {"predicate": {"custom_model_data": 1391010}, "model": "sfgems/garnet"},
+    {"predicate": {"custom_model_data": 1391011}, "model": "sfgems/moonstone"},
+    {"predicate": {"custom_model_data": 1391012}, "model": "sfgems/pearl"},
+    {"predicate": {"custom_model_data": 1391013}, "model": "sfgems/peridot"},
+    {"predicate": {"custom_model_data": 1391020}, "model": "sfgems/garnet_cherry"},
+    {"predicate": {"custom_model_data": 1391021}, "model": "sfgems/amber_beef"}
+  ]
+}
