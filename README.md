@@ -11,6 +11,7 @@ Silk Touch and Fortune does not work on Geodes! This is intentional to make the 
 
 # Content
 ![Geode](https://github.com/Slimefreakk/SlimefreaksGems/blob/main/pictures/geode200.png)
+
 Geodes will replace Deepslate Copper Ore and will spawn between y level 8 and -60.
 When mined, It will either drop an emerald, diamond, amethyst shard or one of the 13 new gemstones.
 Their chances of dropping are represented by their **Weight**. The higher the weight is, the higher the chance of the item dropping.
