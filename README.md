@@ -6,3 +6,5 @@ You can redistribute and alter the pack completely. Just give me a credit.
 
 # Content
 ![Test](https://github.com/Slimefreakk/SlimefreaksGems/blob/main/pictures/amber.png)
+
+<img src="[https://github.com/Slimefreakk/SlimefreaksGems/blob/main/pictures/amber.png]" alt="placeholder" width="50" height="50">
